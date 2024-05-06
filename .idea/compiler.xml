@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/day08_ternary_switchStatements/C05_Ternary.java" />
+      <file url="file://$PROJECT_DIR$/src/day10_StringManipluations/deneme.java" />
+      <file url="file://$PROJECT_DIR$/src/day36_encapsulation_inheritance/C01_FarkliPackageChildClass.java" />
+    </excludeFromCompile>
+  </component>
+</project>
